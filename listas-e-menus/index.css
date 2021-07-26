@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    height: 50px;
+    background-color: rgb(44, 44, 44);
+    width: 100%;
+}
+
+nav a {
+    text-decoration: none;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    margin-left: 10px;
+    
+}
+
+li {
+    margin: 0px 10px;
+}
+
+li:hover{
+    background-color: rgb(34, 34, 34);
+    border-radius: 2px;
+    padding: 0px 2px;
+}
