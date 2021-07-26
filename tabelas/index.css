@@ -1,0 +1,20 @@
+table td, table th{
+    border: 2px  solid  black;
+    padding: 4px;
+
+}
+
+table{
+    border-collapse: collapse;
+    margin: 20px 200px;
+}
+
+td{
+    background-color: rgb(143, 142, 142);
+    font-family: Arial, Helvetica, sans-serif;
+    color: blanchedalmond ;
+}
+
+body{
+    background-color: rgb(71, 71, 71);
+}
